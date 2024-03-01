@@ -9,8 +9,6 @@ Working as an DevOps engineer/Platform engineer.
 [Instagram](https://www.instagram.com/steve0hh/) |
 [Stackoverflow](https://stackoverflow.com/users/765960/steve0hh)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=steve0hh&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
-
 ### Currently working on:
 
 - Amazon Web Services
